@@ -1,0 +1,92 @@
+body {
+    font-family: 'Hannotate SC', sans-serif;
+}
+
+header {
+    background-color:#FEEEED;
+    height: 60px;
+}
+
+li {
+    list-style: none;
+}
+
+.about {
+    width: 900px;
+    float: left;
+    font-size:40px;
+}
+
+.profile{
+    display: flex; 
+}
+
+.right {
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+
+.profile-photo {
+  margin:0
+  width: 10%;
+  padding: 5px 10px;
+}
+
+
+.name {
+    font-size: 50px;
+    padding: 1px 10px;
+    color:#FF1493;
+}
+
+.other {
+    font-size: 20px;
+    padding: 5px 10px ;
+}
+
+.metaboz{
+    font-size: 40px;
+    float: left;
+    width: 100%;
+    color:#EE82EE;
+}
+
+.metaboz-photo {
+    margin:0
+    width: 10%;
+    padding: 5px 10px;
+  }
+  
+
+.Hobby{
+    font-size: 40px;
+    float: left;
+    width: 100%;
+    color:#EE82EE;
+}
+
+.hobby-photo {
+    margin:0
+    width: 10%;
+    padding: 5px 10px;
+  }
+  
+
+.photo{
+    margin: 20px;
+    display: flex; 
+}
+
+.group1 {
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+
+footer {
+    padding: 20px;
+    background-color: #E6E6FA;
+}
+
+.facebook{
+ float: right;
+}
